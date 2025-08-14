@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_portfolio/static/css/main.a0f69281.css",
+    "main.js": "/React_portfolio/static/js/main.070fc99f.js",
+    "static/js/453.1b0d4a06.chunk.js": "/React_portfolio/static/js/453.1b0d4a06.chunk.js",
+    "static/media/bg-light.png": "/React_portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/React_portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/healthcare.jpeg": "/React_portfolio/static/media/healthcare.b3c61657419b14e0c59b.jpeg",
+    "static/media/wine.jpeg": "/React_portfolio/static/media/wine.0c69a9666eac673cd05b.jpeg",
+    "static/media/medical.jpeg": "/React_portfolio/static/media/medical.ca315f93a537bbae7904.jpeg",
+    "static/media/elections.jpeg": "/React_portfolio/static/media/elections.570a1d9c37367ff65cbc.jpeg",
+    "static/media/emailspam.jpeg": "/React_portfolio/static/media/emailspam.8f87ef037492bc02ed7f.jpeg",
+    "index.html": "/React_portfolio/index.html",
+    "main.a0f69281.css.map": "/React_portfolio/static/css/main.a0f69281.css.map",
+    "main.070fc99f.js.map": "/React_portfolio/static/js/main.070fc99f.js.map",
+    "453.1b0d4a06.chunk.js.map": "/React_portfolio/static/js/453.1b0d4a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f69281.css",
+    "static/js/main.070fc99f.js"
+  ]
+}
